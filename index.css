@@ -236,3 +236,15 @@ body{
     width: 80px;
     background-color: #3882F6;
 }
+
+
+.footer{
+    display: flex;
+    background-color: #1F2937;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 16px;
+}
