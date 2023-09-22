@@ -180,3 +180,59 @@ body{
     width: 600px;
     justify-content: flex-end;
 }
+
+
+.container4{
+    display: flex;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container4-adds{
+    display: flex;
+    justify-content: center;
+    height: 130px;
+    background-color: #3882F6;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.adds{
+    display: flex;
+    width: 800px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.adds h3{
+    width: 600px;
+    color: #eee;    
+}
+
+.adds p{
+    width: 700px;
+    padding: 0%;
+    margin: 0%;
+    color: #eee; 
+    margin-bottom: 15px;   
+}
+
+.btn2{
+    width: 110px;
+}
+
+.btn2 button{
+    padding: 7px;
+    font-weight: bolder;
+    border-radius: 7px;
+    border: 2px solid #eee;
+    color: #eee;
+    width: 80px;
+    background-color: #3882F6;
+}
